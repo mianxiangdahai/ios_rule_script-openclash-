@@ -93,6 +93,9 @@ DOMAIN,cloud.oracle.com
 DOMAIN,location.microsoft.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,self.events.data.microsoft.com
+# 自己新加的规则 - 开始
+DOMAIN-SUFFIX,ultimate-disassembly.com
+# 自己新加的规则 - 结束
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
 DOMAIN-SUFFIX,04647.club

@@ -95,6 +95,12 @@ DOMAIN,login.microsoftonline.com
 DOMAIN,self.events.data.microsoft.com
 # 自己新加的规则 - 开始
 DOMAIN-SUFFIX,ultimate-disassembly.com
+DOMAIN-SUFFIX,hosthatch.com
+DOMAIN-SUFFIX,cloudcone.com
+DOMAIN-SUFFIX,bero-host.de
+DOMAIN-SUFFIX,bytevirt.com
+DOMAIN-SUFFIX,gorelay.net
+DOMAIN-SUFFIX,nnr.moe
 # 自己新加的规则 - 结束
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com

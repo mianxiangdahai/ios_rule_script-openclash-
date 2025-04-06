@@ -1,3 +1,21 @@
+# 自己新加的规则 - 开始
+DOMAIN-SUFFIX,ultimate-disassembly.com
+DOMAIN-SUFFIX,hosthatch.com
+DOMAIN-SUFFIX,hostsailor.com
+DOMAIN-SUFFIX,cloudcone.com
+DOMAIN-SUFFIX,akile.io
+DOMAIN-SUFFIX,wap.ac
+DOMAIN-SUFFIX,bero-host.de
+DOMAIN-SUFFIX,dataonline.sbs
+DOMAIN-SUFFIX,nnr.moe
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,piaotia.com
+DOMAIN-SUFFIX,z-lib.fm
+DOMAIN-SUFFIX,go-to-library.sk
+DOMAIN-SUFFIX,bestjavporn.com
+# 自己新加的规则 - 结束
+
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
@@ -93,23 +111,6 @@ DOMAIN,cloud.oracle.com
 DOMAIN,location.microsoft.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,self.events.data.microsoft.com
-
-# 自己新加的规则 - 开始
-DOMAIN-SUFFIX,ultimate-disassembly.com
-DOMAIN-SUFFIX,hosthatch.com
-DOMAIN-SUFFIX,hostsailor.com
-DOMAIN-SUFFIX,cloudcone.com
-DOMAIN-SUFFIX,akile.io
-DOMAIN-SUFFIX,wap.ac
-DOMAIN-SUFFIX,bero-host.de
-DOMAIN-SUFFIX,dataonline.sbs
-DOMAIN-SUFFIX,nnr.moe
-DOMAIN-SUFFIX,nodeseek.com
-DOMAIN-SUFFIX,jetbrains.com
-DOMAIN-SUFFIX,piaotia.com
-DOMAIN-SUFFIX,z-lib.fm
-DOMAIN-SUFFIX,go-to-library.sk
-# 自己新加的规则 - 结束
 
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
